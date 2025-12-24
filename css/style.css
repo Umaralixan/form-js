@@ -1,0 +1,28 @@
+.form {
+  width: 500px;
+  height: 300px;
+  margin: 0 auto;
+  margin-top: 200px;
+  border: 1px solid red;
+}
+.input {
+  width: 200px;
+  padding-left: 10px;
+  border: 1px solid grey;
+  font-size: 16px;
+  margin-left: 40px;
+  border-radius: 4px;
+}
+.btn {
+  width: 200px;
+  height: 28px;
+  background-color: rgb(11, 186, 11);
+  border-radius: 4px;
+  margin-left: 42px;
+  color: white;
+}
+.btnn {
+  background-color: rgb(11, 186, 11);
+  color: white;
+  border-radius: 4px;
+}
